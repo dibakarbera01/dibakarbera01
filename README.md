@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dibakarbera01
 - 👀 I’m interested in ..
-- 🌱 I’m currently learning ...Python, Web Development
+- 🌱 I’m currently learning ...Java with Dsa and System Design, Python, Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -                   
