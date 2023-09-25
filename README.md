@@ -2,7 +2,7 @@
 - 👀 I’m interested in ..Full stack web Development and Data Science
 - 🌱 I’m currently learning ...Java with Dsa and System Design, Python, Frontend Development using React.js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... My Email :- dibakarbera548@gmail.com
+- 📫 How to reach me ... My Email :- dibakarbera548@gmail.com or dibakarbera01@gmail.com
 -                   
 
 <!---
