@@ -1,4 +1,3 @@
 <h1 align="center">Hi 👋, I'm Dibakar Bera</h1>
-<h3 align="center">A passionate Web developer,full stack developer from India.</h3>       
-- 💬 Ask me about **web Development, python, full stack development, Cyber security**
-- 📫 How to reach me **dibakarbera01@gmail.com**
+<h3 align="center">A passionate full stack developer from India.</h3>       
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dibakarbera01&show_icons=true&locale=en&layout=compact"/></p>
