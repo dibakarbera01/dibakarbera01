@@ -4,6 +4,5 @@
 <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dibakarbera01&show_icons=true&theme=transparent"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibakarbera01&layout=compact&&langs_count=8"/>
 </div>
-<img alt="Maksym's GitHub stats" src="[https://github-readme-stats.vercel.app](https://gh-stats-gen.vercel.app/)/api?username=dibakarbera01&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibakarbera01&layout=compact&&langs_count=8"/>
+
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibakarbera01&" alt="dibakarbera01"/></p> -->
