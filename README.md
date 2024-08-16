@@ -2,7 +2,7 @@
 
 ## 🌟 Career Objective
 
-I am a dedicated Full Stack Developer with expertise in the MERN stack (MongoDB, Express.js, React, Node.js), seeking to join a reputable organization where I can leverage my skills in building scalable web applications. My focus is on contributing to impactful projects while continuously expanding my knowledge and advancing my career. I have a strong track record of managing and delivering projects efficiently from inception to deployment, and I am committed to staying updated with the latest industry trends and technologies to provide innovative and effective solutions.
+A dedicated Full Stack Developer with expertise in the MERN stack (MongoDB, Express.js, React, Node.js), seeking to join a reputable organization where I can leverage my skills in building scalable web applications. My focus is on contributing to impactful projects while continuously expanding my knowledge and advancing my career. I have a strong track record of managing and delivering projects efficiently from inception to deployment, and I am committed to staying updated with the latest industry trends and technologies to provide innovative and effective solutions.
 
 <!---
 
