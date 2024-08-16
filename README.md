@@ -1,8 +1,15 @@
 <h1 align="center">Hello I'm Dibakar Bera</h1>
 <h3 align="center">
-  Full-stack developer specializing in accessible, visually appealing web applications. 
+  <!-----Full-stack developer specializing in accessible, visually appealing web applications. 
   Certified in MongoDB Node.js Developer Path. 
-  Skilled in SDLC methodologies, emphasizing strong communication, problem-solving, and teamwork for effective project delivery
+  Skilled in SDLC methodologies, emphasizing strong communication, problem-solving, and teamwork for effective project delivery --->
+  Targeting Full stack Developer roles with an organization of high repute with a scope of improving knowledge
+and further career growth.
+• MERN stack (MongoDB, Express.js, React, Node.js) with a strong background in building scalable web
+applications
+• Demonstrated ability to manage and deliver projects efficiently, from planning through deployment and maintenance.
+• Committed to staying updated with the latest industry trends and technologies, continuously enhancing skills to
+provide innovative solutions
 </h3>
 
 <div align="center">
