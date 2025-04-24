@@ -38,7 +38,7 @@ Full-stack developer specializing in accessible, visually appealing web applicat
 <div align="center">
   
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dibakarbera01&theme=blueberry&hide_border=false" width="49.5%" />
+  
   
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibakarbera01&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="35.5%" />
