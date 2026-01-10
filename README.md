@@ -29,28 +29,6 @@ A dedicated Full Stack Developer with expertise in the MERN stack (MongoDB, Expr
 - Contributing to open-source MERN projects
 
 
-<!---- <h3 align="center">
-Full-stack developer specializing in accessible, visually appealing web applications. 
-  Certified in MongoDB Node.js Developer Path. 
-  Skilled in SDLC methodologies, emphasizing strong communication, problem-solving, and teamwork for effective project delivery
-</h3> ---->
-
-<div align="center">
-  
-  <!-- GitHub Streak Stats -->
-  
-  
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibakarbera01&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="35.5%" />
-
-</div>
-
----
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 
 
