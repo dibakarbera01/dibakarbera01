@@ -1,4 +1,4 @@
-<h1 align="center">Hello I'm Dibakar Bera</h1>
+<h1 align="center">Hello I'm Dibakar</h1>
 
 ## 🌟 Career Objective
 
